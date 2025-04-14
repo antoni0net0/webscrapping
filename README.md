@@ -36,8 +36,8 @@ Imagine que você trabalha na área de **compras de uma empresa** e precisa cons
 
 | Produto        | Preço Máximo | Preço Mínimo | Termos Banidos        |
 |----------------|--------------|--------------|------------------------|
-| iPhone 12 64GB | 3500         | 2000         | usado, recondicionado  |
-| RTX 3060       | 2800         | 1500         | mineradora, defeito    |
+| iPhone 12 64GB | 3500         | 1500         | usado, recondicionado  |
+| RTX 3060       | 4500         | 2000         | mineradora, defeito    |
 
 ---
 
