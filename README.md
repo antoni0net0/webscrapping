@@ -66,8 +66,12 @@ Imagine que você trabalha na área de **compras de uma empresa** e precisa cons
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🧪 Possíveis Melhorias Futuras
 
-1. Instale as dependências:
-   ```bash
-   pip install selenium pandas openpyxl pywin32
+- 🔍 Adicionar suporte a mais sites (ex: Zoom, Amazon, Magazine Luiza)
+- 📥 Baixar automaticamente imagens dos produtos
+- 📊 Exportar a tabela de resultados em PDF ou Excel com formatação
+- ⏰ Agendar a automação para rodar periodicamente (com `cron` ou `Task Scheduler`)
+- 🖥 Criar uma interface gráfica simples (com Tkinter, PyQt ou Web)
+- 📈 Gerar relatórios históricos para acompanhar a variação de preços ao longo do tempo
+- 🌐 Implementar um sistema web com dashboard para visualização dos dados em tempo real
